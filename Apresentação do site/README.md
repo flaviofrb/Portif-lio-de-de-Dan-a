@@ -1,1 +1,1 @@
-Apresentação do meu primeiro site feito em Laravel. Como danço break, pensei em fazer meu portfólio de dança.
+Apresentação do meu primeiro site feito em Laravel. Como danço break, pensei em criar meu portfólio de dança, podendo expor as informações principais em PDF. Utilizei a ferramenta Mailtrap para mostrar como chegaria no meu e-mail a informação do cliente enviada através do site, solicitando algo. Faltando alguns ajustes, fique à vontade para verificar o código e ver como funciona.
