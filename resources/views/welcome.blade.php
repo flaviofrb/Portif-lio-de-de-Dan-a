@@ -30,7 +30,7 @@
         </div>
         <nav class="navbar">
             <div class="max-width">
-                <div class="logo"><a href="#">Portfó<span>lio</span></a></div>
+                <div class="logo"><a href="#">Portifó<span>lio</span></a></div>
                 <ul class="menu">
                     <li><a href="#home" class="menu-btn">Home</a></li>
                     <li><a href="#Sobre" class="menu-btn">Sobre</a></li>
