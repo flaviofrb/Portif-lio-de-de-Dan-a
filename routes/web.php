@@ -20,7 +20,6 @@ Route::get('/', function () {
 
 use App\Http\Controllers\FormController;
 
-Route::get('/formulario', [FormController::class, 'exibirFormulario']);
 Route::post('/processar-formulario', [FormController::class, 'processarFormulario']);
 
 
