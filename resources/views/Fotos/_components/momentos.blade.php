@@ -256,7 +256,7 @@
                   </div>
                   <div class="card">
                       <div class="box">
-                          <img src="https://www2.unifap.br/nitt/files/2023/08/52-Expofeira-do-Amapa.jpg">
+                          <img src="https://raw.githubusercontent.com/flaviofrb/PortifoliodeDanca/main/Imagens/expofeira.jpg">
                           <div class="text">02/10/2023</div>
                           <a href="https://www.facebook.com/100006327600991/videos/7057773854255171/"
                               target="_blank">Link: Apresentação
