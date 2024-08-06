@@ -117,7 +117,8 @@
                   </div>
                   <div class="card">
                       <div class="box">
-                          <img src="https://raw.githubusercontent.com/flaviofrb/PortifoliodeDanca/main/Imagens/macap%C3%A1%20ver%C3%A3o.jpg">
+                          <img
+                              src="https://raw.githubusercontent.com/flaviofrb/PortifoliodeDanca/main/Imagens/macap%C3%A1%20ver%C3%A3o.jpg">
                           <div class="text">14/07/2019</div>
                           <a href="https://youtu.be/a-PK8zVUmr4?si=NkLVcfW9yfnlm0YR" target="_blank">Link: Macapá
                               Verão</a>
@@ -260,6 +261,14 @@
                           <a href="https://www.facebook.com/100006327600991/videos/7057773854255171/"
                               target="_blank">Link: Apresentação
                               Expofeira</a>
+                      </div>
+                  </div>
+                  <div class="card">
+                      <div class="box">
+                          <img src="https://raw.githubusercontent.com/flaviofrb/PortifoliodeDanca/main/Imagens/Macap%C3%A1_Ver%C3%A3o_2024.jpg">
+                          <div class="text">20/07/2024</div>
+                          <a href="https://www.facebook.com/moose.tatuador/posts/pfbid067ahu2uxjvxYNmA1suvnYvo269msYrzJ9VbM62RamUVL9mgoJEhDDYeurgpbJ7jKl"
+                              target="_blank">Link: Festival verão hip hop</a>
                       </div>
                   </div>
               </div>
